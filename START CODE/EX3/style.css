@@ -1,0 +1,39 @@
+.topnav{
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    font-size:x-small;
+
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: rgba(28, 29, 23, 0.893);
+    font-size: xx-large;
+
+}
+div{
+    display: flex;
+    justify-content:center;
+}
+img{
+    
+    padding: 20px;
+}
+body{
+    background-color: rgb(241, 241, 241);
+}
+p{
+    font-size: larger;
+    display: flex;
+    justify-content:center;
+    align-items: 333start;
+}
+.container {
+    display: flex;
+    justify-content:center;
+    flex-direction: column;
+    align-items: center;
+
+}
